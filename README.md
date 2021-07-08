@@ -2,8 +2,7 @@
 
 # Website of Eclectika 2020 Cultural Fest NIT Raipur 
 https://raju1822.github.io/eclectika-2020-Website/
- ![image](https://user-images.githubusercontent.com/43608832/124973187-d920ba80-e048-11eb-8509-ff320c6e8294.png )
-
+ 
 Official Repository of Cultural fest of NIT Raipur
 
 Theme: Bite  into  fantasy 
